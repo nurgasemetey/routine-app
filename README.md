@@ -8,10 +8,3 @@ Install it and run:
 npm install
 npm run start
 ```
-
-or with yarn:
-
-```bash
-yarn install
-yarn run start
-```
